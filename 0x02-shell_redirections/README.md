@@ -1,2 +1,2 @@
-#!/bin/bash
-0x02 shell I0 redirections and filters
+0. Hello World: 
+  Write a script that prints “Hello, World”, followed by a new line to the standard output.
